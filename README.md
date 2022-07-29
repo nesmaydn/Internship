@@ -1,4 +1,4 @@
-1. Hafta yapılanlar:
+
 
 I- Makineye Ubuntu Server 22.04 kuruldu.
 II- LAMP Sistemi hakkında gerekli araştırmalar yapıldı.
